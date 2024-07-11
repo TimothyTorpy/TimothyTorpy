@@ -7,7 +7,7 @@ I am an Instrumentation and Controls Technician with a passion for coding and it
 ## Technical Skills
 
 - Languages: JavaScript, HTML, CSS, C#
-- Frameworks: React (front-end), Node.js (back-end)
+- Frameworks: JavaScript (front-end), C# (back-end), Dotnet MVC(Back-End)
 - Industrial Experience: Multiple RTUs (Remote Terminal Units), Allen-Bradley PLCs
 - Currently learning Full Stack Development at the University of Alberta
 
