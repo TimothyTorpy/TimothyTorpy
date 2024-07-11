@@ -13,8 +13,6 @@ I am an Instrumentation and Controls Technician with a passion for coding and it
 
 ## Projects
 
-- Web application for tracking gaming stats
-- Automation script for daily workflow management
 - In-progress portfolio project combining instrumentation knowledge with web development, creating a user-friendly interface for monitoring and managing industrial processes
 
 ## Education
